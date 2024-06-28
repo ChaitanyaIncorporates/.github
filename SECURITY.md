@@ -56,7 +56,7 @@ We employ several key practices to ensure the security and integrity of our serv
 
 We offer a bug bounty program to reward individuals who help us identify and fix security vulnerabilities. If your report is verified and leads to a security fix, you may be eligible for a bounty. 
 
-For more information, visit our [Bug Bounty Page](https://chaitanyainc.tech/BugBounty).
+For more information, visit our [Bug Bounty Page](https://chaitanyainc.tech/HelpCenter/BugBounty).
 
 ---
 
